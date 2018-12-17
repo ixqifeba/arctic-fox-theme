@@ -6,7 +6,7 @@ categories:
 
 ---
 Arctic Fox supports GFM!
-The following text has been taken from [this page](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet). wwwwwwww
+The following text has been taken from [this page](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet). wwwwwwwwww
 
 # H1
 
@@ -40,11 +40,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
    Some text that should be aligned with the above item.
 
 * Unordered list can use asterisks
-
-
 * Or minuses
-
-
 * Or pluses
 
 [I'm an inline-style link](https://www.google.com)
