@@ -1,5 +1,5 @@
 ---
-title: comicz collections
+title: comix
 date: 2018-12-18 03:26:14 +0000
 gallery:
 - "/uploads/smbc4.jpeg"
