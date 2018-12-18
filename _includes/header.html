@@ -13,9 +13,8 @@
           {% endif %}
         {% endfor %}
         {% for gall in site.galleries %}
-          <h3>{{ gall.title }} </h3>
+          <a class="page-link" href="{{ gall.url | prepend: site.baseurl }}">{{ gall.title }}</a>
         {% endfor %}
-          <a class="page-link" href="{{ site.baseurl}}/galleries">Galleries</a>
       </div>
     </nav>
 
