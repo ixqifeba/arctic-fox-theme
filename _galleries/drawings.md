@@ -1,5 +1,5 @@
 ---
-title: drawings
+title: Drawings
 date: 2018-12-18 03:56:02 +0000
 gallery:
 - "/arctic-fox-theme/uploads/draw2.jpg"
