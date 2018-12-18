@@ -2,11 +2,11 @@
 layout: default
 ---
 <div class="post">
-  gallery {{ page.name }}
+  gallery {{ page.title }}
   <ul class="post-list">
-    {% for gallery in site.galleries %}
+    {% for img in page.gallery%}
       <li> Gall - 
-        <a class="post-link" href="{{ gallery.url }}">{{ gallery.title }}</a>
+        <img src="{{ img }}"/>
       </li>
     {% endfor %}
   </ul>
