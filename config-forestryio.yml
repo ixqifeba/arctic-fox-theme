@@ -85,6 +85,11 @@ defaults:
     type: posts
   values:
     layout: post
+- scope:
+    path: ''
+    type: galleries
+  values:
+    layout: galleries
 collections:
   galleries:
     output: true
