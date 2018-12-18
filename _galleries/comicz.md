@@ -9,4 +9,4 @@ gallery:
 - "/uploads/smbc5.png"
 
 ---
-collectionz![](/uploads/smbc1.png)
+collectio1nz![](/uploads/smbc1.png)
