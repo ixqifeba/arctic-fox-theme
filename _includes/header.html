@@ -8,10 +8,12 @@
       <div class="trigger">
           <a class="page-link" href="{{ site.baseurl }}/">Home</a>
         {% for page in site.pages %}
-          {% page %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
+        {% endfor %}
+        {% for gall in site.galleries %}
+          <h3>{{ gall.title }} </h3>
         {% endfor %}
           <a class="page-link" href="{{ site.baseurl}}/galleries">Galleries</a>
       </div>
