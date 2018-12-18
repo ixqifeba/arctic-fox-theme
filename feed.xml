@@ -6,8 +6,8 @@
 </description>
     <link>http://ixqifeba.github.io/arctic-fox-theme/</link>
     <atom:link href="http://ixqifeba.github.io/arctic-fox-theme/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Dec 2018 00:48:49 -0800</pubDate>
-    <lastBuildDate>Tue, 18 Dec 2018 00:48:49 -0800</lastBuildDate>
+    <pubDate>Tue, 18 Dec 2018 00:49:21 -0800</pubDate>
+    <lastBuildDate>Tue, 18 Dec 2018 00:49:21 -0800</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -17,26 +17,6 @@
         <pubDate>Mon, 17 Dec 2018 00:37:57 -0800</pubDate>
         <link>http://ixqifeba.github.io/arctic-fox-theme/2018/12/17/1.html</link>
         <guid isPermaLink="true">http://ixqifeba.github.io/arctic-fox-theme/2018/12/17/1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Hello, User!</title>
-        <description>&lt;p&gt;Hi, thanks for viewing my theme! Feel free to edit it in any way you want, just be cool and leave the necessary credits somewhere visible. If you could star the repository, that’d be pretty cool as well.&lt;/p&gt;
-
-&lt;p&gt;Here’s a list of things you should probably do after installing this theme:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; with your actual information. Classic Jekyll.&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; with your actual information&lt;/li&gt;
-  &lt;li&gt;Go to &lt;code class=&quot;highlighter-rouge&quot;&gt;css/main.scss&lt;/code&gt; and edit &lt;code class=&quot;highlighter-rouge&quot;&gt;brand-color&lt;/code&gt; to any color you want to change the header color! If you want to use an image instead, check out &lt;code class=&quot;highlighter-rouge&quot;&gt;_sass/_layout.scss&lt;/code&gt; and edit line 6.&lt;/li&gt;
-  &lt;li&gt;Delete these icky filler posts.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 25 May 2015 00:00:00 -0700</pubDate>
-        <link>http://ixqifeba.github.io/arctic-fox-theme/2015/05/25/hello.html</link>
-        <guid isPermaLink="true">http://ixqifeba.github.io/arctic-fox-theme/2015/05/25/hello.html</guid>
         
         
       </item>
