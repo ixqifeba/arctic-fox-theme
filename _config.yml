@@ -19,7 +19,7 @@ defaults:
       layout: post
 collections:
   galleries:
-	output: true
+  output: true
   posts:
     output: true
   projects:
