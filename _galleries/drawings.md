@@ -5,6 +5,7 @@ gallery:
 - "/arctic-fox-theme/uploads/draw2.jpg"
 - "/arctic-fox-theme/uploads/draw3.jpg"
 - "/arctic-fox-theme/uploads/draw1.jpg"
+description: Lines from my imagination
 
 ---
 drawz
