@@ -58,6 +58,11 @@
         
           
         
+        
+          <h3>comix </h3>
+        
+          <h3>drawings </h3>
+        
           <a class="page-link" href="/arctic-fox-theme/galleries">Galleries</a>
       </div>
     </nav>
@@ -107,7 +112,7 @@ collections:
 jekyll-archives:
   enabled: all
   layout: archive
-gems:
+plugins:
 - jekyll-menus
 - jekyll-feed
 - jekyll-archives
