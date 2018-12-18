@@ -3,9 +3,9 @@ layout: default
 ---
 <div class="home">
   <ul class="post-list">
-    {% for coll in site.collections %}
+    {% for gallery in site.galleries %}
       <li>
-        <a class="post-link" href="{{coll.url}}">{{coll.title}}</a>
+        <a class="post-link" href="{{gallery.url}}">{{gallery.title}}</a>
       </li>
     {% endfor %}
   </ul>
