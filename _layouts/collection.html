@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div class="home">
+  <ul class="post-list">
+    {% for coll in site.collections %}
+      <li>
+        <a class="post-link" href="{{coll.url}}">{{coll.title}}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
