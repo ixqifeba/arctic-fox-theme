@@ -19,7 +19,8 @@ defaults:
       layout: post
 collections:
   galleries:
-  output: true
+    output: true
+    permalink: "/galleries/:path/"
   posts:
     output: true
   projects:
