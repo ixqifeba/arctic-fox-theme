@@ -7,4 +7,4 @@ gallery:
 - "/uploads/draw1.jpg"
 
 ---
-drawz
+drawz1
